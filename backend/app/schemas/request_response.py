@@ -2,7 +2,6 @@ from pydantic import BaseModel
 from typing import Optional
 
 class ConversationRequest(BaseModel):
-    user_id: int
     event_description: str
     user_interests: list[str]
 
@@ -13,10 +12,12 @@ class ConversationResponse(BaseModel):
 
 
 class FactCheckRequest(BaseModel):
-    session_id: int
     input_text: str
 
 
 class FactCheckResponse(BaseModel):
     verification_status: str
     summary: Optional[str] = None
+class FeedbackRequest(BaseModel):
+    suggestion:str
+    action:str
