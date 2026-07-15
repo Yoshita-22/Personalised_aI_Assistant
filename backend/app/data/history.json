@@ -291,5 +291,22 @@
             "I'm always looking for innovative ways to leverage cloud technology for data security; are there any particular solutions or strategies you've found particularly effective lately?"
         ],
         "timestamp": "2026-07-14T18:34:32.395423"
+    },
+    {
+        "user_interests": [
+            "AI",
+            "ML"
+        ],
+        "event-desc": "AI  for sustainable cities",
+        "themes": [
+            "AI",
+            "ML"
+        ],
+        "conversation_Starters": [
+            "I've been following the recent advancements in generative AI; what's an application you're finding particularly exciting or challenging right now?",
+            "Given the rapid pace of ML development, what's one emerging trend in the field that you believe will have the biggest impact in the next 1-2 years?",
+            "I'm curious about practical applications of AI/ML beyond the hype; what's a project you've worked on or seen that truly demonstrates its value?"
+        ],
+        "timestamp": "2026-07-15T19:40:41.576515"
     }
 ]

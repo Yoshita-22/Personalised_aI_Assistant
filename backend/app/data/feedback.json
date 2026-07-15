@@ -18,5 +18,30 @@
         "suggestion": "What's one thing in AI or ML you're particularly excited about learning more about right now?",
         "action": "like",
         "timestamp": "2026-07-14T16:56:19.664516"
+    },
+    {
+        "suggestion": "I've been following the recent advancements in generative AI; what's an application you're finding particularly exciting or challenging right now?",
+        "action": "like",
+        "timestamp": "2026-07-15T19:40:49.735094"
+    },
+    {
+        "suggestion": "Given the rapid pace of ML development, what's one emerging trend in the field that you believe will have the biggest impact in the next 1-2 years?",
+        "action": "dislike",
+        "timestamp": "2026-07-15T19:40:53.224024"
+    },
+    {
+        "suggestion": "I've been following the recent advancements in generative AI; what's an application you're finding particularly exciting or challenging right now?",
+        "action": "like",
+        "timestamp": "2026-07-15T19:52:34.056450"
+    },
+    {
+        "suggestion": "I've been following the recent advancements in generative AI; what's an application you're finding particularly exciting or challenging right now?",
+        "action": "like",
+        "timestamp": "2026-07-15T20:01:33.419870"
+    },
+    {
+        "suggestion": "I've been following the recent advancements in generative AI; what's an application you're finding particularly exciting or challenging right now?",
+        "action": "like",
+        "timestamp": "2026-07-15T20:03:53.119220"
     }
 ]
